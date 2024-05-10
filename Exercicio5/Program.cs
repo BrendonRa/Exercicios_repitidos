@@ -12,7 +12,7 @@ namespace Exercicio5
         {
             int num;
 
-            Console.Write("Digite um valor numérico: ");
+            Console.Write("Digite um valor numérico entre 0 e 5: ");
             num = int.Parse(Console.ReadLine());
 
             switch (num) 

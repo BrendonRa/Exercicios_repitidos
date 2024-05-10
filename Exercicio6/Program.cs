@@ -70,6 +70,7 @@ namespace Exercicio6
                     break;
             }
 
+            /*
             if (mes == 1)
             {
                 Console.Write("JANEIRO");
@@ -110,6 +111,9 @@ namespace Exercicio6
             {
                 Console.WriteLine("Não existe mês com esse número");   
             }
+            */
+
+            Console.ReadKey();
         }
     }
 }

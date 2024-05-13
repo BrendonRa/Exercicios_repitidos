@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Exercicios repetidos\Exercicio12\bin\Debug\Exercicio12.exe.config
+C:\Users\PC\source\repos\Exercicios repetidos\Exercicio12\bin\Debug\Exercicio12.exe
+C:\Users\PC\source\repos\Exercicios repetidos\Exercicio12\bin\Debug\Exercicio12.pdb
+C:\Users\PC\source\repos\Exercicios repetidos\Exercicio12\obj\Debug\Exercicio12.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Exercicios repetidos\Exercicio12\obj\Debug\Exercicio12.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Exercicios repetidos\Exercicio12\obj\Debug\Exercicio12.exe
+C:\Users\PC\source\repos\Exercicios repetidos\Exercicio12\obj\Debug\Exercicio12.pdb
